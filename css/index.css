@@ -1,0 +1,222 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav {
+    font-size: 16px;
+    color: #333;
+}
+
+.jumbotron {
+    background-color: #ccd5ae;
+}
+
+.display-4 {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.overview {
+    display: flex;
+}
+
+.card {
+    width: 450px;
+    margin: auto;
+}
+
+.process {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+h1 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 30px;
+}
+
+h2 {
+    font-size: 14px;
+    margin: 10px 30px 10px 30px;
+}
+
+.Persona_img {
+    margin: auto;
+    height: 500px;
+    width: 1000px;
+    background-image:url(../images/Persona.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    align-items: center;
+    display: flex;
+    position: relative;
+}
+
+.Design_img {
+    margin: auto;
+    height: 180px;
+    width: 800px;
+    background-image: url(../images/Design\ process.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
+
+.Analysis_img {
+    margin: auto;
+    height: 400px;
+    width: 1000px;
+    background-image:url(../images/Heuristic\ evaluation.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    align-items: center;
+    display: flex;
+    position: relative;
+}
+
+.Competitor_img {
+    margin: auto;
+    height: 800px;
+    width: 1000px;
+    background-image:url(../images/Competitor\ analysis.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    align-items: center;
+    display: flex;
+    position: relative;
+}
+
+.Task {
+    margin: 10px 30px 10px 30px;
+}
+
+.Task .card-header {
+    background-color: #faedcd;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.Task li {
+    font-size: 14px;
+}
+
+.priority {
+    margin: auto;
+    height: 600px;
+    width: 1000px;
+    background-image:url(../images/Priority.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    align-items: center;
+    display: flex;
+    position: relative;
+}
+
+.Guerilla h1 {
+    margin-top: 20px;
+}
+
+.Guerilla h2 {
+    margin-bottom: 20px;
+}
+
+.Findings {
+    margin: 10px 30px 10px 30px;
+}
+
+.Findings .card-header {
+    font-size: 16px;
+    background-color: #faedcd;
+}
+
+.Findings .card-title {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.Findings .card-text {
+    font-size: 14px;
+}
+
+.subtitle {
+    background-color: #ccd5ae;
+    height: 100px;
+}
+
+.subtitle .display-4 {
+    padding-top: 35px;
+    font-size: 30px;
+}
+
+.wireframe h1 {
+    margin-top: 20px;
+}
+
+.wireframe h2 {
+    margin-bottom: 20px;
+}
+
+.desktop_W {
+    margin: auto;
+    height: 700px;
+    width: 1000px;
+    background-image:url(../images/Desktop_W.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    align-items: center;
+    display: flex;
+    position: relative;
+}
+
+.mobile_W {
+    margin: auto;
+    height: 550px;
+    width: 1000px;
+    background-image:url(../images/Mobile_W.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    align-items: center;
+    display: flex;
+    position: relative;
+}
+
+.Final {
+    background-color: #ccd5ae;
+}
+
+.btn {
+    background-color: transparent;
+    border-color: transparent;
+    font-size: 16px;
+    font-weight: 600px;
+    color: #264653;
+}
+
+.mockup {
+    height: 700px;
+    width: 900px;
+    background-image:url(../images/desktop_mockup.gif);
+    margin: auto;
+    align-items: center;
+    display: flex;
+    background-size: cover;
+}
+
+.Mockup_mobile {
+    height: 600px;
+    width: 400px;
+    margin: auto;
+    background-image:url(../images/Mobile_mockup.gif);
+    align-items: center;
+    display: flex;
+    background-size: 80%;
+    background-repeat: no-repeat;
+}
