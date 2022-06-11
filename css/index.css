@@ -214,9 +214,53 @@ h2 {
     height: 600px;
     width: 400px;
     margin: auto;
+    margin-left: 40%;
     background-image:url(../images/Mobile_mockup.gif);
     align-items: center;
     display: flex;
     background-size: 80%;
     background-repeat: no-repeat;
 }
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+ }
+  
+ footer li {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+ }
+  
+ .FooterTitle {
+    font-weight: 700;
+ }
+ .linkedin {
+    height: 40px;
+    width: 40px;
+    margin-bottom: 10px;
+    margin-left: 48.5%;
+    background-image:url(../images/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    position: relative;
+ }
+  
+ .instagram {
+    height: 40px;
+    width: 40px;
+    margin-bottom: 10px;
+    margin-left: 48.5%;
+    background-image:url(../images/Glossy-Instagram-logo-PNG.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    position: relative;
+ }
+ 
